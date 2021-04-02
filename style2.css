@@ -1,0 +1,10 @@
+body{
+    background-image: url("background2.jpg");
+}
+p{
+    font-size: xx-large;
+    color:black;
+}
+.name{
+    background-color: blueviolet;
+}
